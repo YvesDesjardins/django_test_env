@@ -1,3 +1,4 @@
 {
-  "python.pythonPath": "/Users/yvesdesjardins/.local/share/virtualenvs/django_test_env-eps2c1ID/bin/python"
+  "python.pythonPath": "/Users/yvesdesjardins/.local/share/virtualenvs/django_test_env-eps2c1ID/bin/python",
+  "python.formatting.provider": "autopep8"
 }
